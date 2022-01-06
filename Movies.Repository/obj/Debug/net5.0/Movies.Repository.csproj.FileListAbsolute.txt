@@ -1,0 +1,15 @@
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\bin\Debug\net5.0\Movies.Repository.deps.json
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\bin\Debug\net5.0\Movies.Repository.runtimeconfig.json
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\bin\Debug\net5.0\Movies.Repository.runtimeconfig.dev.json
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\bin\Debug\net5.0\Movies.Repository.dll
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\bin\Debug\net5.0\ref\Movies.Repository.dll
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\bin\Debug\net5.0\Movies.Repository.pdb
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\obj\Debug\net5.0\Movies.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\obj\Debug\net5.0\Movies.Repository.AssemblyInfoInputs.cache
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\obj\Debug\net5.0\Movies.Repository.AssemblyInfo.cs
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\obj\Debug\net5.0\Movies.Repository.csproj.CoreCompileInputs.cache
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\obj\Debug\net5.0\Movies.Repository.dll
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\obj\Debug\net5.0\ref\Movies.Repository.dll
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\obj\Debug\net5.0\Movies.Repository.pdb
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\obj\Debug\net5.0\Movies.Repository.genruntimeconfig.cache
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Repository\obj\Debug\net5.0\Movies.Repository.csproj.AssemblyReference.cache

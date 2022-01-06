@@ -1,0 +1,14 @@
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\bin\Debug\net5.0\Movies.Services.deps.json
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\bin\Debug\net5.0\Movies.Services.dll
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\bin\Debug\net5.0\ref\Movies.Services.dll
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\bin\Debug\net5.0\Movies.Services.pdb
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\obj\Debug\net5.0\Movies.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\obj\Debug\net5.0\Movies.Services.AssemblyInfoInputs.cache
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\obj\Debug\net5.0\Movies.Services.AssemblyInfo.cs
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\obj\Debug\net5.0\Movies.Services.csproj.CoreCompileInputs.cache
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\obj\Debug\net5.0\Movies.Services.dll
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\obj\Debug\net5.0\ref\Movies.Services.dll
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\obj\Debug\net5.0\Movies.Services.pdb
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\obj\Debug\net5.0\Movies.Services.csproj.AssemblyReference.cache
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\bin\Debug\net5.0\Movies.Repository.dll
+C:\Users\vijay\source\repos\MoviesAPI\Movies.Services\bin\Debug\net5.0\Movies.Repository.pdb
